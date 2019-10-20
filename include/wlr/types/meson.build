@@ -43,6 +43,7 @@ install_headers(
 	'wlr_text_input_v3.h',
 	'wlr_touch.h',
 	'wlr_virtual_keyboard_v1.h',
+	'wlr_virtual_pointer_v1.h',
 	'wlr_xcursor_manager.h',
 	'wlr_xdg_decoration_v1.h',
 	'wlr_xdg_output_v1.h',
